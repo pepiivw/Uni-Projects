@@ -1,8 +1,0 @@
-C:\Users\petar\Desktop\footballgame\footballgame\bin\Debug\footballgame.exe.config
-C:\Users\petar\Desktop\footballgame\footballgame\bin\Debug\footballgame.exe
-C:\Users\petar\Desktop\footballgame\footballgame\bin\Debug\footballgame.pdb
-C:\Users\petar\Desktop\footballgame\footballgame\obj\Debug\footballgame.csproj.AssemblyReference.cache
-C:\Users\petar\Desktop\footballgame\footballgame\obj\Debug\footballgame.csproj.SuggestedBindingRedirects.cache
-C:\Users\petar\Desktop\footballgame\footballgame\obj\Debug\footballgame.csproj.CoreCompileInputs.cache
-C:\Users\petar\Desktop\footballgame\footballgame\obj\Debug\footballgame.exe
-C:\Users\petar\Desktop\footballgame\footballgame\obj\Debug\footballgame.pdb
